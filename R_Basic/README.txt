@@ -1,1 +1,0 @@
-Basic console command app. Tests RPG qualities for a game idea I have. Still in the works.
